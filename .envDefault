@@ -1,0 +1,4 @@
+MONGO_URI=url_mongo
+JWT_SECRET=my_jwt_secret
+ENCRYPT_JWT_SECRET=my_encrypt_jwt_secret
+JWT_EXPIRATION=my_jwt_expiration
